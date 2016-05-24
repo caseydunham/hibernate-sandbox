@@ -1,2 +1,3 @@
-# hqli-sandbox
-Demo application for MISC 2016
+# hibernate-sandbox
+
+Demo application used in a couple of recent talks to discuss SQL Injection through the Hibernate Lexer.
