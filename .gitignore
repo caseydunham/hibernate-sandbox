@@ -15,3 +15,6 @@ target/
 *.iml
 *.iws
 .idea/
+
+.DS_Store
+.vagrant
